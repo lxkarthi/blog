@@ -87,9 +87,9 @@ exclude:
   - CNAME
 
 lsi: false
-  safe: true
-  source: 
-  incremental: false
-  highlighter: rouge
-  gist:
-    noscript: false
+safe: true
+source: 
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
