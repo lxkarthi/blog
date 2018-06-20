@@ -1,16 +1,16 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
+permalink: "/about/"
 ---
 
-Some information about me!
-Karthikeyan Natarajan
-Engineer.
+Karthikeyan Natarajan,  Engineer.
+
+Education: M.S. EE, B.Tech ECE
 
 ### More Information
 
-I create EDA tools and algorithms for VLSI (specifically for DFT). 
+I create EDA tools and develop algorithms for VLSI (specifically for DFT). 
 
 I work on applying Deep Learning techniques for EDA.
 
@@ -20,4 +20,3 @@ As a hobby, I work on projects like Home Automation and embedded development usi
 ### Contact me
 
 [github_user_id@gmail.com](mailto:github_user_id@gmail.com)
-
