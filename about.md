@@ -10,14 +10,14 @@ Engineer.
 
 ### More Information
 
-I work at creating EDA tools for VLSI (specifically DFT). 
-I deal with EDA algorithms managing millions of graph nodes (gates).
+I create EDA tools and algorithms for VLSI (specifically for DFT). 
 
-I am working on applying Deep Learning techniques for EDA.
+I work on applying Deep Learning techniques for EDA.
 
-Other than this, I work on kaggle problems, CUDA, Signal processing algorithms and embedded development using ESP8266, Raspberry pi, etc. 
+Other than this, I work on kaggle problems, CUDA, Signal processing algorithms aand RTL design. 
+As a hobby, I work on projects like Home Automation and embedded development using ESP8266, Raspberry pi, etc. 
 
 ### Contact me
 
-[<github_user_id>@gmail.com](mailto:<github_user_id>@gmail.com)
+[github_user_id@gmail.com](mailto:github_user_id@gmail.com)
 
