@@ -1,7 +1,7 @@
 ---
 title: About
-layout: page
 permalink: "/about/"
+layout: page
 ---
 
 Karthikeyan Natarajan,  Engineer.
